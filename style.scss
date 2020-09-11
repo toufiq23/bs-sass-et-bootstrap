@@ -1,0 +1,12 @@
+$theme-colors: (
+  "primary": #563D7C,
+  "danger": #ff4136,
+  "believemy": #F66F19
+);
+
+$border-radius: 10rem;
+@import "node_modules/bootstrap/scss/bootstrap";
+
+.view{
+	min-height: 100vh;
+}
